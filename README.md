@@ -3,7 +3,7 @@
 This repository contains the public FTC SDK for the INTO THE DEEP (2024-2025) competition season.
 
 ## Welcome!
-This is a fork of the offical FTC SDK for the 24-25 season. It includes the source code for the FTC SDK, as well as the example code for the 2024-2025 FTC goBILDA Starter Kit Robot: [https://www.gobilda.com/pinpoint-odometry-computer-imu-sensor-fusion-for-2-wheel-odometry/](https://www.gobilda.com/ftc-starter-bot-resource-guide-into-the-deep/)
+This is a fork of the offical FTC SDK for the 24-25 season. It includes the source code for the FTC SDK, as well as the example code for the 2024-2025 FTC goBILDA Starter Kit Robot: [https://www.gobilda.com/ftc-starter-bot-resource-guide-into-the-deep/](https://www.gobilda.com/ftc-starter-bot-resource-guide-into-the-deep/)
 
 This repo includes the Java File for the example teleop opmode for the Starter Kit Robot.
 
